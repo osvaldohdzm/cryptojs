@@ -1,4 +1,4 @@
-sudo apt install nodejs
+sudo apt install nodejs npm
 
 npm install crypto-js
 
